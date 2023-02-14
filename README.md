@@ -17,5 +17,5 @@ Microservice sends back the quote in byte format and must be decoded using UTF-8
 
 
 UML Diagram:
+![alt text](https://github.com/darrenmah/cs361_microservice/blob/main/Sequence%20diagram.png)
 
-https://github.com/darrenmah/cs361_microservice/blob/main/Sequence%20diagram.png
